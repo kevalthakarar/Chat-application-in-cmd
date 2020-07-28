@@ -1,4 +1,4 @@
-# Chat-application-in-cmd
+# Chat-application-in-cmd using socket programming in c
 
 
 link for the photos
